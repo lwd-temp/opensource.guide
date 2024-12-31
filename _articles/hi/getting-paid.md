@@ -87,21 +87,21 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 
 यदि आप अपने वर्तमान नियोक्ता को ओपन सोर्स कार्य को प्राथमिकता देने के लिए मना नहीं सकते हैं, तो एक नया नियोक्ता ढूंढने पर विचार करें जो ओपन सोर्स में कर्मचारी योगदान को प्रोत्साहित करता हो। ऐसी कंपनियों की तलाश करें जो ओपन सोर्स कार्य के प्रति अपना समर्पण स्पष्ट करती हों। उदाहरण के लिए:
 
-* कुछ कंपनियाँ, जैसे [Netflix](https://netflix.github.io/) या [PayPal](https://paypal.github.io/), के पास ऐसी वेबसाइटें हैं जो ओपन सोर्स में उनकी भागीदारी को उजागर करती हैं।
+* कुछ कंपनियाँ, जैसे [Netflix](https://netflix.github.io/), के पास ऐसी वेबसाइटें हैं जो ओपन सोर्स में उनकी भागीदारी को उजागर करती हैं।
 * [Zalando](https://opensource.zalando.com) ने [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) उनके कर्मचारियों के लिए प्रकाशन किया।
 
 ऐसी परियोजनाएँ जो किसी बड़ी कंपनी में उत्पन्न हुईं, जैसे [Go](https://github.com/golang) या [React](https://github.com/facebook/react), ओपन सोर्स पर काम करने के लिए लोगों को नियोजित करने की भी संभावना है।
 
 अपनी व्यक्तिगत परिस्थितियों के आधार पर, आप अपने ओपन सोर्स कार्य के वित्तपोषण के लिए स्वतंत्र रूप से धन जुटाने का प्रयास कर सकते हैं। उदाहरण के लिए:
 
-* @Homebrew (और [many other maintainers and organizations](https://github.com/sponsors/community)) [GitHub Sponsors](https://github.com/sponsors) के माध्यम से उनके काम को वित्तपोषित करें
+* @Homebrew (और [कई अन्य अनुरक्षक और संगठन](https://github.com/sponsors/community)) [GitHub Sponsors](https://github.com/sponsors) के माध्यम से उनके काम को वित्तपोषित करें
 * @gaearon उसके काम को वित्त पोषित किया [Redux](https://github.com/reactjs/redux) पर, और [Patreon crowdfunding campaign](https://redux.js.org/) के जरिए
 * @andrewgodwin स्कीमा माइग्रेशन पर वित्त पोषित कार्य [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 अंत में, कभी-कभी ओपन सोर्स प्रोजेक्ट उन मुद्दों पर इनाम देते हैं जिनमें आप मदद करने पर विचार कर सकते हैं।
 
-* @ConnorChristie भुगतान पाने में सक्षम था [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM ने इसके बाद @MetaMask का जापानी अनुवाद किया [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @ConnorChristie भुगतान पाने में सक्षम था [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol अपनी JavaScript लाइब्रेरी पर काम करता है [gitcoin पर इनाम के माध्यम से](https://gitcoin.co/).
+* @mamiM ने इसके बाद @MetaMask का जापानी अनुवाद किया [इस मुद्दे को बाउंटीज़ नेटवर्क पर वित्त पोषित किया गया था](https://explorer.bounties.network/bounty/134).
 
 ## अपने प्रोजेक्ट के लिए फंडिंग ढूँढना
 

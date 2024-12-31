@@ -32,7 +32,7 @@ related:
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**अपने GitHub प्रोजेक्ट को सार्वजनिक बनाना आपके प्रोजेक्ट को लाइसेंस देने के समान नहीं है।** सार्वजनिक परियोजनाएँ इसके अंतर्गत आती हैं [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), जो दूसरों को आपके प्रोजेक्ट को देखने और फोर्क करने की अनुमति देता है, लेकिन अन्यथा आपका काम बिना किसी अनुमति के आता है।
+**अपने GitHub प्रोजेक्ट को सार्वजनिक बनाना आपके प्रोजेक्ट को लाइसेंस देने के समान नहीं है।** सार्वजनिक परियोजनाएँ इसके अंतर्गत आती हैं [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), जो दूसरों को आपके प्रोजेक्ट को देखने और फोर्क करने की अनुमति देता है, लेकिन अन्यथा आपका काम बिना किसी अनुमति के आता है।
 
 यदि आप चाहते हैं कि अन्य लोग आपके प्रोजेक्ट का उपयोग, वितरण, संशोधन या योगदान करें, तो आपको एक ओपन सोर्स लाइसेंस शामिल करना होगा। उदाहरण के लिए, कोई व्यक्ति आपके GitHub प्रोजेक्ट के किसी भी हिस्से को अपने कोड में कानूनी रूप से उपयोग नहीं कर सकता, भले ही वह सार्वजनिक हो, जब तक कि आप स्पष्ट रूप से उन्हें ऐसा करने का अधिकार नहीं देते।
 
@@ -101,13 +101,13 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     हमने Node.js के लिए CLA को हटा दिया है। ऐसा करने से Node.js योगदानकर्ताओं के लिए प्रवेश की बाधा कम हो जाती है जिससे योगदानकर्ता आधार का विस्तार होता है।
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 कुछ स्थितियाँ जहाँ आप अपने प्रोजेक्ट के लिए अतिरिक्त योगदानकर्ता समझौते पर विचार करना चाह सकते हैं उनमें शामिल हैं:
 
-* आपके वकील चाहते हैं कि सभी योगदानकर्ता स्पष्ट रूप से (_साइन_, ऑनलाइन या ऑफलाइन) योगदान शर्तों को स्वीकार करें, शायद इसलिए क्योंकि उन्हें लगता है कि ओपन सोर्स लाइसेंस ही पर्याप्त नहीं है (भले ही यह है!)। यदि यह एकमात्र चिंता का विषय है, तो एक योगदानकर्ता समझौता जो परियोजना के ओपन सोर्स लाइसेंस की पुष्टि करता है, पर्याप्त होना चाहिए। [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) हल्के अतिरिक्त योगदानकर्ता समझौते का एक अच्छा उदाहरण है।
+* आपके वकील चाहते हैं कि सभी योगदानकर्ता स्पष्ट रूप से (_साइन_, ऑनलाइन या ऑफलाइन) योगदान शर्तों को स्वीकार करें, शायद इसलिए क्योंकि उन्हें लगता है कि ओपन सोर्स लाइसेंस ही पर्याप्त नहीं है (भले ही यह है!)। यदि यह एकमात्र चिंता का विषय है, तो एक योगदानकर्ता समझौता जो परियोजना के ओपन सोर्स लाइसेंस की पुष्टि करता है, पर्याप्त होना चाहिए। [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) हल्के अतिरिक्त योगदानकर्ता समझौते का एक अच्छा उदाहरण है।
 * आप या आपके वकील चाहते हैं कि डेवलपर्स यह प्रतिनिधित्व करें कि उनकी प्रत्येक प्रतिबद्धता अधिकृत है. [Developer Certificate of Origin](https://developercertificate.org/) आवश्यकता यह है कि कितनी परियोजनाएँ इसे प्राप्त करती हैं। उदाहरण के लिए, Node.js समुदाय [uses](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) DCO [instead](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) उनके पूर्व CLI का। आपके भंडार पर डीसीओ के प्रवर्तन को स्वचालित करने का एक सरल विकल्प है [DCO Probot](https://github.com/probot/dco).
 *आपका प्रोजेक्ट एक ओपन सोर्स लाइसेंस का उपयोग करता है जिसमें एक्सप्रेस पेटेंट अनुदान (जैसे एमआईटी) शामिल नहीं है, और आपको सभी योगदानकर्ताओं से पेटेंट अनुदान की आवश्यकता है, जिनमें से कुछ बड़े पेटेंट पोर्टफोलियो वाली कंपनियों के लिए काम कर सकते हैं जिनका उपयोग आपको लक्षित करने के लिए किया जा सकता है या परियोजना के अन्य योगदानकर्ता और उपयोगकर्ता। The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) आमतौर पर इस्तेमाल किया जाने वाला अतिरिक्त योगदानकर्ता समझौता है जिसमें अपाचे लाइसेंस 2.0 में पाए गए पेटेंट अनुदान को प्रतिबिंबित किया गया है।
 * आपका प्रोजेक्ट कॉपीलेफ्ट लाइसेंस के अंतर्गत है, लेकिन आपको प्रोजेक्ट का मालिकाना संस्करण भी वितरित करने की आवश्यकता है। आपको प्रत्येक योगदानकर्ता से आपको कॉपीराइट सौंपने या आपको (लेकिन जनता को नहीं) अनुमेय लाइसेंस देने की आवश्यकता होगी। [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) इस प्रकार के समझौते का एक उदाहरण है.
